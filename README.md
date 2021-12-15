@@ -54,7 +54,7 @@ Table of Contents
 
 # Workflow
 ## Model-Workflow 
-반복된 Human-In-The-Loop 실행으로 데이터 품질으 높여 모델 성능을 향상시켰습니다.
+반복된 Human-In-The-Loop 실행으로 데이터 품질을 높여 모델 성능을 향상시켰습니다.
 ![model-workflow](./images/model-workflow.png)
 
 ## Architecture
