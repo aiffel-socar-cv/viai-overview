@@ -19,7 +19,7 @@ Table of Contents
   * [DEMO](#DEMO)
 
 
-# Overview
+## Overview
 
 2021.11.10 ~2021.12.15 약 한달간 진행된 VIAI (Vehicle Inspection AI) 프로젝트의 Overview와 각 리포지토리 설명, 노션의 다큐멘테이션을 정리해보았습니다.
 
@@ -29,7 +29,7 @@ Table of Contents
 
 |  Name | Role | Email | Focus |
 | --- | ---- | --- | --- |
-| [전지은 (Jieun Jeon](https://github.com/jieunjeon)) | 팀장 | jieunjeon818@gmail.com | Data Pipeline, Model Serving, Human Validation Web |
+| [전지은 (Jieun Jeon)](https://github.com/jieunjeon) | 팀장 | jieunjeon818@gmail.com | Data Pipeline, Model Serving, Human Validation Web |
 | [서태원 (Taewon Seo)](https://github.com/t1seo) | 팀원 | t1won.seo@gmail.com | Modeling, Model Serving, Data Pipeline |
 | [신예린 (Yerin Shin)](https://github.com/rinrin528) | 팀원 | yexin528@naver.com | Modeling, Model Serving, Data Pipeline, Human Validation Web |
 | [박기민 (Kimin Park)](https://github.com/PEBpung) | 팀원 | mcuwwa29@gmail.com | Modeling |
@@ -64,11 +64,12 @@ Table of Contents
 ![db](./images/db-orm.png)
 
 ## Model
-Unet with Efficient Encoder
+### Unet with Efficient Encoder
 ![unet](./images/efficient-unet.png)
 
-Model Final Result
+### Model Final Result
 ![result](./images/model-result.png)
+
 ## Mask-Image-Example
 ![unet](./images/mask-image-sample.png)
 
@@ -108,11 +109,11 @@ Model Final Result
 | [Utils](https://github.com/aiffel-socar-cv/utils) | Utils for helper methods (data handler, image preprocessing, coco data tranformation tools, etc.) |
 
 # DEMO
-User Client 
+## User Client 
 ![user-client](./images/user-demo.gif)
 
-Admin Client - Dashboard
+## Admin Client - Dashboard
 ![admin-client-dashboard](./images/viai-demo-dashboard.gif)
 
-Admin Client - Annotation
+## Admin Client - Annotation
 ![admin-client-annotation](./images/viai-demo-annot.gif)
