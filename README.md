@@ -29,7 +29,7 @@ Table of Contents
 
 |  Name | Role | Email | Focus |
 | --- | ---- | --- | --- |
-| [전지은 (Jieun Jeon](https://github.com/jieunjeon)) | 팀장 | jieunjeon818@gmail.com | Data Pipeline, Model Serving, Human Validation Web |
+| [전지은 (Jieun Jeon](https://github.com/jieunjeon) | 팀장 | jieunjeon818@gmail.com | Data Pipeline, Model Serving, Human Validation Web |
 | [서태원 (Taewon Seo)](https://github.com/t1seo) | 팀원 | t1won.seo@gmail.com | Modeling, Model Serving, Data Pipeline |
 | [신예린 (Yerin Shin)](https://github.com/rinrin528) | 팀원 | yexin528@naver.com | Modeling, Model Serving, Data Pipeline, Human Validation Web |
 | [박기민 (Kimin Park)](https://github.com/PEBpung) | 팀원 | mcuwwa29@gmail.com | Modeling |
