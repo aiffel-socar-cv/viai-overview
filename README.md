@@ -19,7 +19,7 @@ Table of Contents
   * [DEMO](#DEMO)
 
 
-# Overview
+## Overview
 
 2021.11.10 ~2021.12.15 약 한달간 진행된 VIAI (Vehicle Inspection AI) 프로젝트의 Overview와 각 리포지토리 설명, 노션의 다큐멘테이션을 정리해보았습니다.
 
@@ -108,11 +108,11 @@ Model Final Result
 | [Utils](https://github.com/aiffel-socar-cv/utils) | Utils for helper methods (data handler, image preprocessing, coco data tranformation tools, etc.) |
 
 # DEMO
-User Client 
+## User Client 
 ![user-client](./images/user-demo.gif)
 
-Admin Client - Dashboard
+## Admin Client - Dashboard
 ![admin-client-dashboard](./images/viai-demo-dashboard.gif)
 
-Admin Client - Annotation
+## Admin Client - Annotation
 ![admin-client-annotation](./images/viai-demo-annot.gif)
