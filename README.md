@@ -64,7 +64,7 @@ Table of Contents
 ![db](./images/db-orm.png)
 
 ## Model
-## Unet with Efficient Encoder
+### Unet with Efficient Encoder
 ![unet](./images/efficient-unet.png)
 
 ### Model Final Result
